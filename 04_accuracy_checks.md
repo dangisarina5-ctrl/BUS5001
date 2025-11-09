@@ -1,7 +1,7 @@
 | Prompt # | Accuracy | Notes |
 |-----------|-----------|-------|
-| 1 | ✅ | Summary matched document. |
-| 2 | ✅ | Regionalisation correct. |
-| 3 | ⚠️ | Added example not in PDF (minor hallucination). |
-| 4 | ❌ | Mentioned Dialogflow ES, not in source. |
+| 1 | High | Summary matched document. |
+| 2 | High | Regionalisation correct. |
+| 3 | Mid | Added example not in PDF (minor hallucination). |
+| 4 | Low | Mentioned Dialogflow ES, not in source. |
 
