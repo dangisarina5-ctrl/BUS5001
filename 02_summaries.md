@@ -14,7 +14,7 @@
 - Defines **State Handlers** that control conversation routing.
 
 ### Observation
-✅ Comprehensive and accurate; reflects full workshop content.  
-🎯 Strong example of NotebookLM’s summarisation capability.
+Comprehensive and accurate; reflects full workshop content.  
+Strong example of NotebookLM’s summarisation capability.
 
 
