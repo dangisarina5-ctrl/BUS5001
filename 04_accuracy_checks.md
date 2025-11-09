@@ -15,9 +15,9 @@ Shows NotebookLM remains faithful to source boundaries when limited content is a
 ### Cross-Prompt Accuracy Summary
 | Prompt | Accuracy | Notes |
 |:-------:|:---------:|-------|
-| 1 | | All topics covered correctly in summary |
-| 2 | | Accurate hierarchical definitions |
-| 3 | | Steps in exact order; minor omission |
-| 4 | | Reflected limited scope truthfully |
+| 1 |High| All topics covered correctly in summary |
+| 2 |High| Accurate hierarchical definitions |
+| 3 |High| Steps in exact order; minor omission |
+| 4 |High| Reflected limited scope truthfully |
 **Overall Accuracy:** ≈ 95 % across tests.
 
