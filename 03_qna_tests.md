@@ -8,9 +8,9 @@
 - **Interaction:** Agent → contains Flows → made up of Pages; pages transition to move the dialogue forward.
 
 ### Evaluation
-✅ Matches lecture definitions exactly.  
-✅ Uses clear, student-friendly language.  
-💬 Excellent demonstration of NotebookLM’s ability to retrieve hierarchical relationships accurately.
+Matches lecture definitions exactly.  
+Uses clear, student-friendly language.  
+Excellent demonstration of NotebookLM’s ability to retrieve hierarchical relationships accurately.
 
 ---
 
@@ -33,7 +33,7 @@
 7. Test Agent.
 
 ### Evaluation
-✅ Step order fully matches the workshop.  
-⚠️ Minor omission: did not explicitly mention saving between steps.  
-🎯 Excellent procedural clarity and structured reasoning.
+Step order fully matches the workshop.  
+Minor omission: did not explicitly mention saving between steps.  
+Excellent procedural clarity and structured reasoning.
 
